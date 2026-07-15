@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAY work 1/D1 进制的转换.md",
+                "file": "DAY work 1/Day1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D1 进制的转换"
+              "title": "Day1"
             }
           }
         ],
@@ -213,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "768f4bc555e81797",
+  "active": "9134801f2bd1e5ae",
   "lastOpenFiles": [
-    "DAY work 1/Day1.md",
     "DAY work 1/D1 进制的转换.md",
+    "DAY work 1/Day1.md",
     "DAY work 1",
     "学习路线/万用模板.md",
     "未命名/未命名.md",
