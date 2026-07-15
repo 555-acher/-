@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAY work 1/Day1.md",
+                "file": "学习路线/万用模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day1"
+              "title": "万用模板"
             }
           }
         ],
@@ -193,13 +193,23 @@
               "icon": "lucide-list",
               "title": "万用模板 的大纲"
             }
+          },
+          {
+            "id": "ab4450356dea0c48",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,12 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9134801f2bd1e5ae",
+  "active": "ab4450356dea0c48",
   "lastOpenFiles": [
     "DAY work 1/D1 进制的转换.md",
     "DAY work 1/Day1.md",
-    "DAY work 1",
     "学习路线/万用模板.md",
+    "DAY work 1",
     "未命名/未命名.md",
     "未命名/assets/未命名/file-20260715115607343.png",
     "未命名/assets/未命名",
