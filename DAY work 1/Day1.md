@@ -2,8 +2,8 @@
 tags: [嵌入式, ]
 aliases: []
 status: "🟢 已完成"  # 🟡 进行中 | 🟢 已完成 | 🔴 待补充
-created: "{{date}}"
-modified: "{{date}}"
+created: "2026-07-15"
+modified: "2026-07-15"
 category:  # 概念 | 笔记 | 实验 | 项目 | BUG记录
 ---
 
@@ -11,8 +11,8 @@ category:  # 概念 | 笔记 | 实验 | 项目 | BUG记录
 
 ## 📌 概述
 
-> [!abstract] 一句话总结
-> 。
+> [!abstract] 一句话
+> 基础知识的掌握
 
 ---
 
